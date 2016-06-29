@@ -1,0 +1,2 @@
+# JavaSCRIPT
+BASIC CODES
